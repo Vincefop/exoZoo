@@ -1,5 +1,5 @@
 package fr.hierarchie;
 
-public class Invertebre {
+public abstract class Invertebre {
 
 }
